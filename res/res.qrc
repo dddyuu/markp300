@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>1_red_output_135_degree.png</file>
+        <file>1_output_135_degree.png</file>
+    </qresource>
+</RCC>
